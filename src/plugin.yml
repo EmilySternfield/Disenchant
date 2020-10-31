@@ -1,0 +1,7 @@
+main: me.lena0009.DisenchantAll.Main
+name: DisenchantAll
+version: 1.0
+author: lena0009
+
+commands: 
+  disenchantall:
